@@ -2518,8 +2518,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00QD/proprietary/vendor/lib/libsysmon_cdsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsysmon_cdsp_skel.so \
     vendor/asus/X00QD/proprietary/vendor/lib/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsystem_health_mon.so \
     vendor/asus/X00QD/proprietary/vendor/lib/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtime_genoff.so \
-    vendor/asus/X00QD/proprietary/vendor/lib/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinycompress.so \
-    vendor/asus/X00QD/proprietary/vendor/lib/libtinyxml2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyxml2_1.so \
     vendor/asus/X00QD/proprietary/vendor/lib/libtzdrmgenprov.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtzdrmgenprov.so \
     vendor/asus/X00QD/proprietary/vendor/lib/libunlock.so:$(TARGET_COPY_OUT_VENDOR)/lib/libunlock.so \
     vendor/asus/X00QD/proprietary/vendor/lib/libvideoutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvideoutils.so \
@@ -2977,8 +2975,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00QD/proprietary/vendor/lib64/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsystem_health_mon.so \
     vendor/asus/X00QD/proprietary/vendor/lib64/libthermalioctl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthermalioctl.so \
     vendor/asus/X00QD/proprietary/vendor/lib64/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtime_genoff.so \
-    vendor/asus/X00QD/proprietary/vendor/lib64/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinycompress.so \
-    vendor/asus/X00QD/proprietary/vendor/lib64/libtinyxml2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinyxml2_1.so \
     vendor/asus/X00QD/proprietary/vendor/lib64/libtzdrmgenprov.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtzdrmgenprov.so \
     vendor/asus/X00QD/proprietary/vendor/lib64/libunlock.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libunlock.so \
     vendor/asus/X00QD/proprietary/vendor/lib64/libvendor.goodix.hardware.fingerprintextension@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvendor.goodix.hardware.fingerprintextension@1.0.so \
